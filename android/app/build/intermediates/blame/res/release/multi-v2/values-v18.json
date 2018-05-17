@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "280",
+                        "endColumns": "48",
+                        "endOffsets": "324"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "280",
+                        "endColumns": "48",
+                        "endOffsets": "324"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

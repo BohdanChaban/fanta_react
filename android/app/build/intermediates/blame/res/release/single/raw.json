@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/raw/node_modules_expo_vectoricons_fonts_simplelineicons.ttf",
+        "source": "/Users/bohdan_chaban/workspace/react_native/android/app/src/main/res/raw/node_modules_expo_vectoricons_fonts_simplelineicons.ttf"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/raw/node_modules_expo_vectoricons_fonts_evilicons.ttf",
+        "source": "/Users/bohdan_chaban/workspace/react_native/android/app/src/main/res/raw/node_modules_expo_vectoricons_fonts_evilicons.ttf"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/raw/node_modules_expo_vectoricons_fonts_materialicons.ttf",
+        "source": "/Users/bohdan_chaban/workspace/react_native/android/app/src/main/res/raw/node_modules_expo_vectoricons_fonts_materialicons.ttf"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/raw/node_modules_expo_vectoricons_fonts_materialcommunityicons.ttf",
+        "source": "/Users/bohdan_chaban/workspace/react_native/android/app/src/main/res/raw/node_modules_expo_vectoricons_fonts_materialcommunityicons.ttf"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/raw/node_modules_expo_vectoricons_fonts_entypo.ttf",
+        "source": "/Users/bohdan_chaban/workspace/react_native/android/app/src/main/res/raw/node_modules_expo_vectoricons_fonts_entypo.ttf"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/raw/node_modules_nativebase_fonts_roboto.ttf",
+        "source": "/Users/bohdan_chaban/workspace/react_native/android/app/src/main/res/raw/node_modules_nativebase_fonts_roboto.ttf"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/raw/node_modules_expo_vectoricons_fonts_fontawesome.ttf",
+        "source": "/Users/bohdan_chaban/workspace/react_native/android/app/src/main/res/raw/node_modules_expo_vectoricons_fonts_fontawesome.ttf"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/raw/node_modules_expo_vectoricons_fonts_octicons.ttf",
+        "source": "/Users/bohdan_chaban/workspace/react_native/android/app/src/main/res/raw/node_modules_expo_vectoricons_fonts_octicons.ttf"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/raw/node_modules_expo_vectoricons_fonts_zocial.ttf",
+        "source": "/Users/bohdan_chaban/workspace/react_native/android/app/src/main/res/raw/node_modules_expo_vectoricons_fonts_zocial.ttf"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/raw/node_modules_expo_vectoricons_fonts_ionicons.ttf",
+        "source": "/Users/bohdan_chaban/workspace/react_native/android/app/src/main/res/raw/node_modules_expo_vectoricons_fonts_ionicons.ttf"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/raw/node_modules_expo_vectoricons_fonts_feather.ttf",
+        "source": "/Users/bohdan_chaban/workspace/react_native/android/app/src/main/res/raw/node_modules_expo_vectoricons_fonts_feather.ttf"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/raw/node_modules_expo_vectoricons_fonts_foundation.ttf",
+        "source": "/Users/bohdan_chaban/workspace/react_native/android/app/src/main/res/raw/node_modules_expo_vectoricons_fonts_foundation.ttf"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/raw/node_modules_nativebase_fonts_roboto_medium.ttf",
+        "source": "/Users/bohdan_chaban/workspace/react_native/android/app/src/main/res/raw/node_modules_nativebase_fonts_roboto_medium.ttf"
+    }
+]

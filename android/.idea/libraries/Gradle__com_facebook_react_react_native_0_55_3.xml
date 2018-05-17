@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-0.55.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/c67bb7e11f7b7710540c0ee3369eb205e704be67/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c67bb7e11f7b7710540c0ee3369eb205e704be67/output/jars/libs/infer-annotations-4.0.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c67bb7e11f7b7710540c0ee3369eb205e704be67/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native/android/com/facebook/react/react-native/0.55.3/react-native-0.55.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native/android/com/facebook/react/react-native/0.55.3/react-native-0.55.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

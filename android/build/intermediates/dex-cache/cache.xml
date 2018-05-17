@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.android/build-cache/c67bb7e11f7b7710540c0ee3369eb205e704be67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/classes_5c61cb06e9f7103a9d36f4916e58cc716549aacf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1_7e2e7e800d2399f974d42d1c68224b8fccb1256e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_52eedb50a81895851f5637e6e945bf5dd7ff0322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.android/build-cache/95b746d9a04b71f4de77373fe4856528907adb42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/classes_07dc412a34d27c5621be14a27289e1661b3301b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.android/build-cache/87bbf56409c8b1399942c12e201a656ad3cac106/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/classes_572e84cc54b072275f12f2edb851488bcfa218b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.android/build-cache/9fef794b42d3010b647c97371a10983f1badb0a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/classes_f1b57b4e3001171d247f638a6727c82f28f53c8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/javax.inject-1_b40be6baf65396a763b1d6348e65c1737c9d7a0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.android/build-cache/7d23d2549f24d1e17baed33933c111c7bfc5caf6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/classes_72cd6ef6158df01f02da3735041243f2783685e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_c9cef3fecd258561f84a61523ecf53d7f9b10b44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.android/build-cache/c67bb7e11f7b7710540c0ee3369eb205e704be67/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/infer-annotations-4.0_36938b0b8e550badc8a06fcb16bd17f4d352a6fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.android/build-cache/9fdb3886ce76e3c905e20058ff8dacb837e6d647/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/classes_611898a08f9177134509a9b859e2a9a82760d81b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.android/build-cache/db68b5950014bc09928fdb279f4fe2bcf9bd8d11/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/classes_ffc70d0378c9368efd637ebe0f78e8bfda3f79b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.android/build-cache/cafa97a5c50b0c977d9adf032e59b06afc40d429/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/classes_9422059f8c43209fc7cd77f824f63522091ac58f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/okhttp-3.6.0_82215936d39b1821a73aee9a94020ec8dcdb2431.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.android/build-cache/7ec6fa15fe807910a508c6165879a3288ee403f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/classes_68d3e2c22afbab8639abaaac5dc71a23d1c18753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.6.0_d46f146d8770368f74eb4d63addd4967f28ce973.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.android/build-cache/8105f3e9b338afce061bfd5a84e01efb155caeb2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/classes_8190c99257695cf7282539bcc4ab226f81a719ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.android/build-cache/e6567bc1afc93b49cc3e5166118c956eaf2caa5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/classes_27cb0d9b6baf06251b2098cf52da821ea3258f31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_e970073acfcefa7aa116cfdde176342778964cfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/okio-1.13.0_ac9ce2c8e2473779e10c2129f4cad60d34c90eda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bohdan_chaban/.android/build-cache/8105f3e9b338afce061bfd5a84e01efb155caeb2/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1_49a9a13559360a9a5cb32f7b3efdcab151e339b9.jar" />
+    </item>
+
+</items>

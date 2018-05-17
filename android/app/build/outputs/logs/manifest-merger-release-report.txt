@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/aaa28e54e609cf9ecbdb94c6be2cdd6f/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/7c94d56d7f034a807c1026dc26785561/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/bf2af33b9b795ecaa671bb811b816a7f/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/9ae1ab19dc8230626e97040472eb8283/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/2c822a01d049edbba43888356d019623/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c2cd5a18375d9cf1383b2bceb5dd7b50/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3efefda3c26c72e30e48f61147da7997/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/5ac1cb6d002b290f601fe86d7a8707d2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/0bbc650c237f4319e3be81bbba7ecb93/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/a052102b45dda1266545b9cbd075d19b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/8f47ed5ee9f7ebe1a98e9291977c4d3e/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:2:5-31
+		INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/aaa28e54e609cf9ecbdb94c6be2cdd6f/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/aaa28e54e609cf9ecbdb94c6be2cdd6f/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/aaa28e54e609cf9ecbdb94c6be2cdd6f/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/aaa28e54e609cf9ecbdb94c6be2cdd6f/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/7c94d56d7f034a807c1026dc26785561/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/7c94d56d7f034a807c1026dc26785561/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c2cd5a18375d9cf1383b2bceb5dd7b50/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c2cd5a18375d9cf1383b2bceb5dd7b50/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3efefda3c26c72e30e48f61147da7997/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3efefda3c26c72e30e48f61147da7997/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.react_native.MainActivity
+ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/aaa28e54e609cf9ecbdb94c6be2cdd6f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/aaa28e54e609cf9ecbdb94c6be2cdd6f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/7c94d56d7f034a807c1026dc26785561/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/7c94d56d7f034a807c1026dc26785561/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/bf2af33b9b795ecaa671bb811b816a7f/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/bf2af33b9b795ecaa671bb811b816a7f/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/9ae1ab19dc8230626e97040472eb8283/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/9ae1ab19dc8230626e97040472eb8283/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/2c822a01d049edbba43888356d019623/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/2c822a01d049edbba43888356d019623/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c2cd5a18375d9cf1383b2bceb5dd7b50/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c2cd5a18375d9cf1383b2bceb5dd7b50/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/5ac1cb6d002b290f601fe86d7a8707d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/5ac1cb6d002b290f601fe86d7a8707d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/0bbc650c237f4319e3be81bbba7ecb93/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/0bbc650c237f4319e3be81bbba7ecb93/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/a052102b45dda1266545b9cbd075d19b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/a052102b45dda1266545b9cbd075d19b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/8f47ed5ee9f7ebe1a98e9291977c4d3e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/8f47ed5ee9f7ebe1a98e9291977c4d3e/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/bohdan_chaban/workspace/react_native/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

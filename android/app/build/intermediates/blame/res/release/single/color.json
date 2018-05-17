@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/res/color/abc_primary_text_material_light.xml"
+    }
+]

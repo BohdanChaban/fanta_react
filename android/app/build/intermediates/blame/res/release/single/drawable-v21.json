@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/bohdan_chaban/workspace/react_native/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/bohdan_chaban/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/d4d30c9fff524984ce959e22911a24ed/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
